@@ -45,10 +45,10 @@ h1{
   font-family: 'Happy Monkey';
   font-size: 150px;
   font-weight: 1000;
-  text-shadow: -1px 1px 0 yellow,
-				  1px 1px 0 yellow,
-				 1px -1px 0 yellow,
-				-1px -1px 0 yellow;
+  text-shadow: -1px 1px 0 white,
+				  1px 1px 0 white,
+				 1px -1px 0 white,
+				-1px -1px 0 white;
 }
 
 h2{
