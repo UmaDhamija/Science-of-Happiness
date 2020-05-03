@@ -61,10 +61,10 @@ h3{
   font-weight: 1000px;
   font-size: 20px;
   margin: 5px 400px 5px 400px;
-  text-shadow: -0.3px 0.3px 0 white,
-          0.3px 0.3px 0 white,
-         0.3px -0.3px 0 white,
-        -0.3px -0.3px 0 white;
+  text-shadow: -0.3px 0.3px 0 black,
+          0.3px 0.3px 0 black,
+         0.3px -0.3px 0 black,
+        -0.3px -0.3px 0 black;
 
 }
 
@@ -99,7 +99,7 @@ background: linear-gradient(360deg, rgba(245,175,45,1) 0%, rgba(200,128,0,1) 48%
 
 
 .image3{
-  background-image: url("content.jpg");
+  background-image: url("gratitude-I.jpg");
   background-position: center;
   background-size: cover;
   height: 100vh;
