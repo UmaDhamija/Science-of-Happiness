@@ -120,30 +120,17 @@ h4{
   padding: 10px;
 }
 
-.alan img, .dan img{
-  display: block;
-  margin: 10px;
-  margin-top: 50px;
-  height: 380px;
-  width: auto;
-  /* padding: 10px; */
-}
-
-.professors .alan{
+.alan-and-dan{
   display: flex;
   justify-content: space-around;
-  padding: 15px;
-  background-color: yellow;
-  opacity: 0.85;
+  background-image: url("Alan and Dan.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100vw;
+  height: 60vh;
+  background-attachment: fixed;
 }
 
-.professors .dan{
-  display: flex;
-  justify-content: space-around;
-  padding: 15px;
-  background-color: #F5AF2D;
-  opacity: 0.85;
-}
 
 .u-thrive h5{
   font-family: 'Happy Monkey';
@@ -281,28 +268,30 @@ h4{
 
 
 .front .inner p{
-  font-family: 'Arima Madurai';
+  font-family: 'Happy Monkey';
   font-size: 30px;
   font-weight: 700;
   position: relative;
-  bottom: -5px;
+  bottom: -10px;
 }
 
 .front .inner p:after{
   content: '';
-  width: 80px;
-  height: 1.3px;
-  background: #B6ABEB;
+  width: 90px;
+  height: 1.5px;
+  background: yellow;
   display: block;
   margin: 0 auto;
   bottom: -5px;
+  margin-top: 10px;
 }
 
 .front .inner span{
-  color: rgba(255,255,255,0.7);
-  font-family: 'Arima Madurai';
+  color: yellow;
+  font-family: 'Lato';
   font-size: 20px;
-  /* space: 20px; HOW DO I MAKE IT SHIFT DOWN*/
+  font-weight: 100px;
+  /* space: 20px; */
 }
 
 

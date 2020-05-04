@@ -30,6 +30,14 @@ a{
   text-decoration: none;
 }
 
+.top-of-page-icon{
+  position: fixed;
+  margin-top: 70vh;
+  margin-left: 90vw;
+  height: 100px;
+  width: auto;
+}
+
 h1{
   margin: 50px;
   font-family: "Happy Monkey";
@@ -46,7 +54,7 @@ h1{
 h2{
   font-family: "Happy Monkey";
   font-size: 40px;
-  color: black;
+  color: yellow;
   text-align: center;
   font-weight: 1000;
   padding: 50px;
@@ -56,9 +64,9 @@ h2{
 h3{
   display: flex;
   justify-content: center;
-  color: yellow;
+  color: white;
   font-family: 'Lato';
-  font-weight: 1000px;
+  font-weight: 700px;
   font-size: 20px;
   margin: 5px 400px 5px 400px;
   text-shadow: -0.3px 0.3px 0 black,
