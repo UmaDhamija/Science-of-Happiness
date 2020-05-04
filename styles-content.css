@@ -43,7 +43,7 @@ h1{
   margin: 200px;
 }
 
-h1:hover, h2:hover{
+h1:hover, h2:hover, h4:hover{
   color: yellow;
 }
 
@@ -75,11 +75,6 @@ h4{
   font-weight: 1000px;
   font-size: 30px;
 }
-
-h4:hover{
-  color: yellow;
-}
-
 
 .text{
   display: flex;
